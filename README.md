@@ -2,7 +2,7 @@
 
 ## Oiii eu sou a Bruna Lima, Estudante de programação e tecnologia!
 
-
+## Minhas Habilidades:
 
 <div style="display: inline_block"><br>
   
