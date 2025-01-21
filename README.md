@@ -1,6 +1,6 @@
 
 
-## Oiii eu sou a Bruna Lima, Estudante de programação e tecnologia!
+## Oiii eu sou a Bruna Lima, Formada em programação e tecnologia!
 
 ## Minhas Habilidades:
 
