@@ -1,7 +1,7 @@
 
 # 👋 Oi! Eu sou a Bruna Lima
 
-🎯 Desenvolvedora Java | Assistente Administrativo Financeiro | FP&A & TI  
+🎯 Desenvolvedora Java | Assistente Administrativo Financeiro 
 💻 Foco: Back-end (Java, Spring Boot)  
 📚 Estudando: Engenharia de Software • Aprendendo Python, JavaScript e TypeScript
 
