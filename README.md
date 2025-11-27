@@ -29,7 +29,7 @@ Aprendendo: Python · JavaScript · TypeScript
 ---
 
 ## 📫 Contato  
-[LinkedIn](https://www.linkedin.com/in/SEU_PERFIL_LINKEDIN) · [Instagram Loja Cat Chic](https://www.instagram.com/SEU_INSTAGRAM)
+[LinkedIn](https://www.linkedin.com/in/SEU_PERFIL_LINKEDIN) ·
 
 ---
 
