@@ -1,13 +1,44 @@
 
+# 👋 Oi! Eu sou a Bruna Lima
 
-## Oiii eu sou a Bruna Lima, Formada em programação e tecnologia!
+🎯 Desenvolvedora Java | Assistente Administrativo Financeiro | FP&A & TI  
+💻 Foco: Back-end (Java, Spring Boot)  
+📚 Estudando: Engenharia de Software • Aprendendo Python, JavaScript e TypeScript
 
-## Minhas Habilidades:
+---
 
-<div style="display: inline_block"><br>
-  
- 
-           
+## 🌟 Meus Projetos (Destaque)
+
+### 🔹 CRUD de Clientes – Java Swing + MySQL  
+Projeto de sistema de cadastro/edição/exclusão de clientes com interface gráfica.  
+
+### 🔹 Desafio LiteraLura – Consumo de API (Java)  
+Consumo de API externa em Java + tratamento/exibição de dados.  
+
+### 🔹 ContaBanco / ContaBancoDigital – Simulação de banco digital (POO, Java)  
+Projeto para praticar Abstração, Herança, Encapsulamento e Polimorfismo.  
+
+*(Outros projetos: Catálogo de Filmes, iPhone Simulation — veja nos repositórios)*
+
+---
+
+## 🛠 Tecnologias & Ferramentas  
+Java · Spring Boot · MySQL · Git · GitHub · VS Code · Git Bash  
+Aprendendo: Python · JavaScript · TypeScript
+
+---
+
+## 📫 Contato  
+[LinkedIn](https://www.linkedin.com/in/SEU_PERFIL_LINKEDIN) · [Instagram Loja Cat Chic](https://www.instagram.com/SEU_INSTAGRAM)
+
+---
+
+## 📊 Estatísticas no GitHub  
+<p align="left">  
+  <img alt="Bruna's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=BrunaPFLima&show_icons=true&count_private=true&theme=default" />  
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaPFLima&layout=compact" />  
+</p>
+
           
            
   <img align="center" alt="bru-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
