@@ -28,11 +28,6 @@ Aprendendo: Python · JavaScript · TypeScript
 
 ---
 
-## 📫 Contato  
-[LinkedIn](https://www.linkedin.com/in/SEU_PERFIL_LINKEDIN) ·
-
----
-
 ## 📊 Estatísticas no GitHub  
 <p align="left">  
   <img alt="Bruna's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=BrunaPFLima&show_icons=true&count_private=true&theme=default" />  
