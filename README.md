@@ -79,7 +79,7 @@ Trabalho com **consulta e manipulação de dados**, **desenvolvimento de APIs** 
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=BrunaPFLima&bg_color=1A0B2E&color=E0AAFF&line=9D4EDD&point=C77DFF&area=true&area_color=6A0DAD&hide_border=false&border_color=6A0DAD&title_color=C77DFF" />
+  <img width="70%" src="https://streak-stats.demolab.com/?user=BrunaPFLima&locale=pt_BR&background=1A0B2E&border=6A0DAD&ring=C77DFF&fire=C77DFF&currStreakNum=E0AAFF&sideNums=E0AAFF&currStreakLabel=C77DFF&sideLabels=C77DFF&dates=9D4EDD" />
 </p>
 
 ---
