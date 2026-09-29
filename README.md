@@ -66,7 +66,7 @@ Trabalho com **consulta e manipulação de dados**, **desenvolvimento de APIs** 
 | 💬 [forumhub-challenge](https://github.com/BrunaPFLima/forumhub-challenge) | API REST de fórum com login JWT, tópicos, respostas e cursos | Java · Spring Boot · Security · MySQL |
 | 👤 [nestjs-usuarios](https://github.com/BrunaPFLima/nestjs-usuarios) | API de cadastro de usuários | TypeScript · NestJS |
 | 📚 [litealura-desafio](https://github.com/BrunaPFLima/litealura-desafio) | Catálogo de livros que consome a API Gutendex e salva no banco | Java · Spring Data JPA · PostgreSQL |
-| 🗂️ [crud-clientes-java-swing-mysql](https://github.com/BrunaPFLima/crud-clientes-java-swing-mysql) | CRUD de clientes com interface gráfica | Java Swing · MySQL |
+| 🗂️ [crud-clientes-java-swing-mysql](https://github.com/BrunaPFLima/crud-clientes-java-swing-mysql) | CRUD desktop de clientes com JDBC e padrão DAO | Java Swing · JDBC · H2 |
 | 🏦 [ContaBancoDigital](https://github.com/BrunaPFLima/ContaBancoDigital) | Banco digital aplicando os 4 pilares da POO | Java |
 | 📱 [ProjetoIphone](https://github.com/BrunaPFLima/ProjetoIphone) | Simulação de smartphone com UML e POO | Java |
 | 💱 [conversor-de-moedas](https://github.com/BrunaPFLima/conversor-de-moedas) | Conversor de moedas | Java |
