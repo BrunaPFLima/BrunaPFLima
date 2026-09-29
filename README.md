@@ -53,20 +53,19 @@ Trabalho com **consulta e manipulação de dados**, **desenvolvimento de APIs** 
 ## 🌟 Projetos em destaque
 
 <p align="center">
-  <a href="https://github.com/BrunaPFLima/todo-api-spring"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BrunaPFLima&repo=todo-api-spring&bg_color=1A0B2E&title_color=C77DFF&text_color=E0AAFF&icon_color=9D4EDD&border_color=6A0DAD" /></a>
   <a href="https://github.com/BrunaPFLima/forumhub-challenge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BrunaPFLima&repo=forumhub-challenge&bg_color=1A0B2E&title_color=C77DFF&text_color=E0AAFF&icon_color=9D4EDD&border_color=6A0DAD" /></a>
   <a href="https://github.com/BrunaPFLima/nestjs-usuarios"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BrunaPFLima&repo=nestjs-usuarios&bg_color=1A0B2E&title_color=C77DFF&text_color=E0AAFF&icon_color=9D4EDD&border_color=6A0DAD" /></a>
   <a href="https://github.com/BrunaPFLima/litealura-desafio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BrunaPFLima&repo=litealura-desafio&bg_color=1A0B2E&title_color=C77DFF&text_color=E0AAFF&icon_color=9D4EDD&border_color=6A0DAD" /></a>
   <a href="https://github.com/BrunaPFLima/crud-clientes-java-swing-mysql"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BrunaPFLima&repo=crud-clientes-java-swing-mysql&bg_color=1A0B2E&title_color=C77DFF&text_color=E0AAFF&icon_color=9D4EDD&border_color=6A0DAD" /></a>
   <a href="https://github.com/BrunaPFLima/ContaBancoDigital"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BrunaPFLima&repo=ContaBancoDigital&bg_color=1A0B2E&title_color=C77DFF&text_color=E0AAFF&icon_color=9D4EDD&border_color=6A0DAD" /></a>
+  <a href="https://github.com/BrunaPFLima/conversor-de-moedas"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BrunaPFLima&repo=conversor-de-moedas&bg_color=1A0B2E&title_color=C77DFF&text_color=E0AAFF&icon_color=9D4EDD&border_color=6A0DAD" /></a>
 </p>
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| 📝 [todo-api-spring](https://github.com/BrunaPFLima/todo-api-spring) | API REST de tarefas | Java · Spring Boot |
-| 💬 [forumhub-challenge](https://github.com/BrunaPFLima/forumhub-challenge) | API REST de fórum (Challenge Alura) | Java · Spring Boot |
+| 💬 [forumhub-challenge](https://github.com/BrunaPFLima/forumhub-challenge) | API REST de fórum com login JWT, tópicos, respostas e cursos | Java · Spring Boot · Security · MySQL |
 | 👤 [nestjs-usuarios](https://github.com/BrunaPFLima/nestjs-usuarios) | API de cadastro de usuários | TypeScript · NestJS |
-| 📚 [litealura-desafio](https://github.com/BrunaPFLima/litealura-desafio) | Consome uma API externa e organiza os dados | Java |
+| 📚 [litealura-desafio](https://github.com/BrunaPFLima/litealura-desafio) | Catálogo de livros que consome a API Gutendex e salva no banco | Java · Spring Data JPA · PostgreSQL |
 | 🗂️ [crud-clientes-java-swing-mysql](https://github.com/BrunaPFLima/crud-clientes-java-swing-mysql) | CRUD de clientes com interface gráfica | Java Swing · MySQL |
 | 🏦 [ContaBancoDigital](https://github.com/BrunaPFLima/ContaBancoDigital) | Banco digital aplicando os 4 pilares da POO | Java |
 | 📱 [ProjetoIphone](https://github.com/BrunaPFLima/ProjetoIphone) | Simulação de smartphone com UML e POO | Java |
