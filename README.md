@@ -11,7 +11,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-USUARIO-AQUI/"><img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:brunapriscilalima@gmail.com"><img src="https://img.shields.io/badge/E--mail-9D4EDD?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=BrunaPFLima&label=visitas&color=C77DFF&style=for-the-badge" />
 </p>
