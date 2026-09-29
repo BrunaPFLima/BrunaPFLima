@@ -1,119 +1,99 @@
-<h1 align="center">👋 Oi! Eu sou a Bruna Lima</h1>
+<!-- Paleta roxa 💜  #1A0B2E · #3C1361 · #6A0DAD · #9D4EDD · #C77DFF · #E0AAFF -->
 
 <p align="center">
-🎯 Desenvolvedora Back-end (Java)  
-<br>
-💻 Foco em APIs, Banco de Dados e Integrações  
-<br>
-📚 MBA em Engenharia de Software (2026)
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3C1361,50:6A0DAD,100:C77DFF&height=200&section=header&text=Bruna%20Lima&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedora%20Back-end%20Java&descSize=18&descAlignY=58&animation=fadeIn" />
 </p>
-
----
-
-## 🚀 Sobre mim
-
-Desenvolvedora de software com foco em **Back-end Java**, experiência com **APIs, banco de dados Oracle, PL/SQL e integração de sistemas**.
-
-Atualmente trabalho com **manipulação e consulta de dados, desenvolvimento de APIs e documentação técnica utilizando Swagger/OpenAPI**.
-
-Tenho interesse em aplicar tecnologia para **automação, análise de dados e melhoria de processos**, unindo desenvolvimento de software com necessidades reais de negócio.
-
----
-
-## 🌟 Projetos em Destaque
-
-### 🔹 CRUD de Clientes – Java Swing + MySQL
-Sistema completo de cadastro de clientes com interface gráfica, permitindo criação, edição, consulta e exclusão de registros.
-
-### 🔹 LiteraLura – Consumo de API (Java)
-Aplicação que consome uma API externa, realiza tratamento de dados e apresenta informações organizadas ao usuário.
-
-### 🔹 ContaBanco / ContaBancoDigital – Banco Digital (POO)
-Simulação de operações bancárias aplicando os pilares da Programação Orientada a Objetos:
-
-- Abstração  
-- Encapsulamento  
-- Herança  
-- Polimorfismo  
-
-### 🔹 iPhone Simulation
-Projeto em Java que simula funcionalidades de um smartphone, aplicando conceitos de modelagem UML e POO.
-
-### 🔹 Catálogo de Filmes
-Projeto de aplicação para organização e consulta de filmes, explorando conceitos de estrutura de dados e manipulação de informações.
-
----
-
-## ⚙️ Experiência Técnica
-
-- Desenvolvimento **Back-end com Java**
-- **Banco de dados Oracle**
-- Programação com **PL/SQL**
-- Desenvolvimento de APIs
-- Documentação de APIs com **Swagger / OpenAPI**
-- Desenvolvimento com **Oracle APEX**
-- Integração de sistemas
-- Versionamento com **Git e GitHub**
-
----
-
-## 🛠 Tecnologias e Ferramentas
-
-<div style="display: inline_block"><br>
-
-<img align="center" alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
-
-<img align="center" alt="Spring Boot" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg">
-
-<img align="center" alt="Oracle" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg">
-
-<img align="center" alt="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
-
-<img align="center" alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
-
-<img align="center" alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-
-<img align="center" alt="TypeScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
-
-<img align="center" alt="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-
-<img align="center" alt="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-<img align="center" alt="Bootstrap" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg">
-
-<img align="center" alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-
-<img align="center" alt="GitHub" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
-
-<img align="center" alt="VSCode" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
-
-<img align="center" alt="Postman" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
-
-</div>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">  
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=BrunaPFLima&show_icons=true&count_private=true&theme=default" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaPFLima&layout=compact" />
-</p>
-
----
-
-## 🌐 Conecte-se comigo
 
 <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3500&pause=900&color=C77DFF&center=true&vCenter=true&width=520&lines=APIs+REST+com+Java+e+Spring+Boot;Oracle+%E2%80%A2+PL%2FSQL+%E2%80%A2+Oracle+APEX;MBA+em+Engenharia+de+Software+%F0%9F%92%9C" alt="Typing SVG" />
+  </a>
+</p>
 
-<a href="https://www.linkedin.com/feed/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://github.com/BrunaPFLima">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU-USUARIO-AQUI/"><img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:brunapriscilalima@gmail.com"><img src="https://img.shields.io/badge/E--mail-9D4EDD?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=BrunaPFLima&label=visitas&color=C77DFF&style=for-the-badge" />
 </p>
 
 ---
+
+## 💜 Sobre mim
+
+```java
+public class BrunaLima {
+    String cargo      = "Desenvolvedora Back-end";
+    String[] foco     = { "APIs", "Banco de Dados", "Integrações" };
+    String[] stack    = { "Java", "Spring Boot", "Oracle", "PL/SQL" };
+    String estudando  = "MBA em Engenharia de Software (2026)";
+    String interesse  = "Automação, análise de dados e melhoria de processos";
+}
+```
+
+Trabalho com **consulta e manipulação de dados**, **desenvolvimento de APIs** e **documentação técnica com Swagger/OpenAPI**, unindo desenvolvimento de software com as necessidades reais do negócio.
+
+---
+
+## 🛠️ Tecnologias
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,nestjs,python,js,ts&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,html,css,bootstrap,git,github,vscode,postman&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Oracle-3C1361?style=flat-square&logo=oracle&logoColor=E0AAFF" />
+  <img src="https://img.shields.io/badge/PL%2FSQL-3C1361?style=flat-square&logo=oracle&logoColor=E0AAFF" />
+  <img src="https://img.shields.io/badge/Oracle%20APEX-3C1361?style=flat-square&logo=oracle&logoColor=E0AAFF" />
+  <img src="https://img.shields.io/badge/Swagger-3C1361?style=flat-square&logo=swagger&logoColor=E0AAFF" />
+</p>
+
+---
+
+## 🌟 Projetos em destaque
+
+<p align="center">
+  <a href="https://github.com/BrunaPFLima/todo-api-spring"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BrunaPFLima&repo=todo-api-spring&bg_color=1A0B2E&title_color=C77DFF&text_color=E0AAFF&icon_color=9D4EDD&border_color=6A0DAD" /></a>
+  <a href="https://github.com/BrunaPFLima/forumhub-challenge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BrunaPFLima&repo=forumhub-challenge&bg_color=1A0B2E&title_color=C77DFF&text_color=E0AAFF&icon_color=9D4EDD&border_color=6A0DAD" /></a>
+  <a href="https://github.com/BrunaPFLima/nestjs-usuarios"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BrunaPFLima&repo=nestjs-usuarios&bg_color=1A0B2E&title_color=C77DFF&text_color=E0AAFF&icon_color=9D4EDD&border_color=6A0DAD" /></a>
+  <a href="https://github.com/BrunaPFLima/litealura-desafio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BrunaPFLima&repo=litealura-desafio&bg_color=1A0B2E&title_color=C77DFF&text_color=E0AAFF&icon_color=9D4EDD&border_color=6A0DAD" /></a>
+  <a href="https://github.com/BrunaPFLima/crud-clientes-java-swing-mysql"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BrunaPFLima&repo=crud-clientes-java-swing-mysql&bg_color=1A0B2E&title_color=C77DFF&text_color=E0AAFF&icon_color=9D4EDD&border_color=6A0DAD" /></a>
+  <a href="https://github.com/BrunaPFLima/ContaBancoDigital"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BrunaPFLima&repo=ContaBancoDigital&bg_color=1A0B2E&title_color=C77DFF&text_color=E0AAFF&icon_color=9D4EDD&border_color=6A0DAD" /></a>
+</p>
+
+| Projeto | O que é | Stack |
+|---|---|---|
+| 📝 [todo-api-spring](https://github.com/BrunaPFLima/todo-api-spring) | API REST de tarefas | Java · Spring Boot |
+| 💬 [forumhub-challenge](https://github.com/BrunaPFLima/forumhub-challenge) | API REST de fórum (Challenge Alura) | Java · Spring Boot |
+| 👤 [nestjs-usuarios](https://github.com/BrunaPFLima/nestjs-usuarios) | API de cadastro de usuários | TypeScript · NestJS |
+| 📚 [litealura-desafio](https://github.com/BrunaPFLima/litealura-desafio) | Consome uma API externa e organiza os dados | Java |
+| 🗂️ [crud-clientes-java-swing-mysql](https://github.com/BrunaPFLima/crud-clientes-java-swing-mysql) | CRUD de clientes com interface gráfica | Java Swing · MySQL |
+| 🏦 [ContaBancoDigital](https://github.com/BrunaPFLima/ContaBancoDigital) | Banco digital aplicando os 4 pilares da POO | Java |
+| 📱 [ProjetoIphone](https://github.com/BrunaPFLima/ProjetoIphone) | Simulação de smartphone com UML e POO | Java |
+| 💱 [conversor-de-moedas](https://github.com/BrunaPFLima/conversor-de-moedas) | Conversor de moedas | Java |
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BrunaPFLima&show_icons=true&count_private=true&hide_border=false&bg_color=1A0B2E&title_color=C77DFF&text_color=E0AAFF&icon_color=9D4EDD&border_color=6A0DAD" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaPFLima&layout=compact&bg_color=1A0B2E&title_color=C77DFF&text_color=E0AAFF&border_color=6A0DAD" />
+</p>
+
+<p align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=BrunaPFLima&bg_color=1A0B2E&color=E0AAFF&line=9D4EDD&point=C77DFF&area=true&area_color=6A0DAD&hide_border=false&border_color=6A0DAD&title_color=C77DFF" />
+</p>
+
+---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrunaPFLima/BrunaPFLima/output/snake-dark.svg" />
+    <img alt="cobrinha de contribuições" src="https://raw.githubusercontent.com/BrunaPFLima/BrunaPFLima/output/snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C77DFF,50:6A0DAD,100:3C1361&height=110&section=footer" />
+</p>
